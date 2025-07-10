@@ -1,0 +1,10 @@
+2025-07-10 18:53:25,506 - DEBUG - Debug Message
+2025-07-10 18:53:25,506 - INFO - Info Message
+2025-07-10 18:53:25,506 - WARNING - Warning Message
+2025-07-10 18:53:25,506 - ERROR - Error Message
+2025-07-10 18:53:25,506 - CRITICAL - Critical Message
+2025-07-10 18:53:42,003 - DEBUG - Debug Message
+2025-07-10 18:53:42,003 - INFO - Info Message
+2025-07-10 18:53:42,003 - WARNING - Warning Message
+2025-07-10 18:53:42,003 - ERROR - Error Message
+2025-07-10 18:53:42,003 - CRITICAL - Critical Message
